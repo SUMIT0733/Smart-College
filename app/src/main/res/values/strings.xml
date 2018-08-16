@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="type">
+        <item>EDUCATIONAL</item>
+        <item>GENERAL NOTICE</item>
+    </string-array>
+
+    <string-array name="branch">
+        <item>IT</item>
+        <item>COMPUTER</item>
+        <item>MECHANICAL</item>
+        <item>CIVIL</item>
+        <item>ELECTRICAL</item>
+        <item>EC</item>
+    </string-array>
+
+    <string-array name="sem">
+        <item>SEMESTER 1</item>
+        <item>SEMESTER 2</item>
+        <item>SEMESTER 3</item>
+        <item>SEMESTER 4</item>
+        <item>SEMESTER 5</item>
+        <item>SEMESTER 6</item>
+        <item>SEMESTER 7</item>
+        <item>SEMESTER 8</item>
+    </string-array>
+    <string name="title_activity_brach">Branch</string>
+
+    <string name="tc">Smart College. (“Smart College,” “our,” “we,” or “us”) provides messaging, Document Sharing, and other services to students of the college. Please read our Terms of Service so you understand what’s up with your use of Smart College. You agree to our Terms of Service (“Terms”) by installing, accessing, or using our apps, services, features, software, or website (together, “Services”).</string>
+
+    <string name="pp">Privacy policy and user data Smart college cares about your privacy. Smart college’s Privacy Policy describes our information (including message) practices, including the types of information we receive and collect from you and how we use and share this information. You agree to our data practices, including the collection, use, processing, and sharing of your information as described in our Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use our Services. You acknowledge that the laws, regulations, and standards of the country in which your information is stored or processed may be different from those of your own country.</string>
+</resources>

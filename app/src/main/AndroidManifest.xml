@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.star_0733.project">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/start"
+        android:label="Smart College"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Wel_come">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".login_page" />
+        <activity android:name=".Forget" />
+        <activity android:name=".tc" />
+        <activity
+            android:name=".Home"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Branch"
+            android:label="@string/title_activity_brach"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Semester"
+            android:label="Semester"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Chat"
+            android:label="Chat"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name=".Register" />
+
+        <activity android:name=".faculty_home" />
+
+        <activity android:name=".Upload_document" />
+
+        <activity android:name=".View_doc" />
+
+        <activity android:name=".doc_notice" />
+
+        <activity android:name=".faculty_chat"/>
+
+    </application>
+
+</manifest>

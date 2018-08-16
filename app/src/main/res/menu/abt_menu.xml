@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sumit"
+        android:title="Sumit"
+        android:icon="@drawable/boy"/>
+    <item
+        android:id="@+id/sanket"
+        android:title="Sanket"
+        android:icon="@drawable/boy"/>
+    <item
+        android:id="@+id/hardik"
+        android:title="Hardik"
+        android:icon="@drawable/boy"/>
+    <item
+        android:id="@+id/vivek"
+        android:title="Vivek"
+        android:icon="@drawable/boy"/>
+</menu>
